@@ -1,6 +1,6 @@
 export const aliossConfig = {
-  accessKeyId: "LTAIAEuuEXE27O5p",
-  accessKeySecret: "mLMCKYSbT3YxChw6WwVxyqeTOh9QOg",
-  bucket: "cvfile",
-  region: "oss-cn-shenzhen"
+  accessKeyId: "asd",
+  accessKeySecret: "asd",
+  bucket: "22",
+  region: "asd"
 };

@@ -1,6 +1,6 @@
 let hashidConfig = {
-  salt:"asdasd12313123",
+  salt:"asd",
   minLength:"10",
-  alphabet:"abcdefghijklmnopqrstuvwxyz",
+  alphabet:"asdasd",
 }
 export = hashidConfig

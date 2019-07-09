@@ -1,7 +1,7 @@
 export const dbConfig= { 
   db:'qyb',
   user:'root',
-  password:"cJq98iSeMAjl2xep", //
+  password:"asd", //
   host: "mysql.com",
   port: 3306,
 }
